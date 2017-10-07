@@ -11,9 +11,9 @@
 メモから音声を作成するツールです。  
 
 1. 注意事項  
-  * こちらは[softalk](https://www35.atwiki.jp/softalk/pages/15.html)という読み上げ・録音ツールがないと使用できません。  
-  * 上記URLからダウンロードしたのち、zipの中にあるsoftalkフォルダを同じフォルダにおいてください。  
-  * （pythonから相対パスでsoftalk/softalk.exeを起動します。）  
+** こちらは[softalk](https://www35.atwiki.jp/softalk/pages/15.html)という読み上げ・録音ツールがないと使用できません。  
+** 上記URLからダウンロードしたのち、zipの中にあるsoftalkフォルダを同じフォルダにおいてください。  
+** （pythonから相対パスでsoftalk/softalk.exeを起動します。）  
 
 2. 事前準備  
   * こちらのツールは使う前にメモを作成する必要があります。  
