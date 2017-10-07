@@ -1,0 +1,7 @@
+softalk/
+txt/
+zip/
+*.spec
+build/
+botu/
+__pycache__/
