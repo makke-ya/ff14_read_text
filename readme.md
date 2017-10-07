@@ -1,4 +1,4 @@
-﻿#【FF14】メモ読み上げ用ツール（softalk使用）  
+﻿# 【FF14】メモ読み上げ用ツール（softalk使用）  
 
 このツールは決まった時間にメモを読み上げる、いわゆるタイマーツールです。  
 記憶力の無い人、もしくはゲームスキルが未熟などで悩んでいる方に使ってもらえればと思います。  
@@ -7,7 +7,7 @@
 ・make_wav.py (もしくはdist/make_wav.exe)  
 ・play_wav.py (もしくはdist/play_wav.exe)  
 
-##make_wav.py  
+## make_wav.py  
 メモから音声を作成するツールです。  
 
 1. 注意事項  
@@ -33,7 +33,7 @@ https://www35.atwiki.jp/softalk/pages/15.html
 `$ dist\make_wav.exe [事前に作成したメモの名前] [作成する音声(zip)ファイルの名前]`  
 
 
-##play_wav.py  
+## play_wav.py  
 作成した音声を再生するツールです。  
 
 1. ツール使用方法  
